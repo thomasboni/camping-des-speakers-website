@@ -1,5 +1,5 @@
 ---
-title: Le Camping des Speakers
+title: Test Netlify
 layout: layouts/home
 tags: ['home', 'nav']
 weight: 1
